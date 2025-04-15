@@ -1,20 +1,24 @@
 # Hi there :wave:
 
+I'm Nightowl *(god I hate writing about me sections, always feels weird to introduce myself).*
 I'm a mostly self taught programmer that usually goes by Nightowl (or just Owl), and I've been programming my own projects since 2015.
 
-I like to reinvent the wheel for learning purposes, which is why a lot of my pinned projects exist,
-however I do also use them personally as I like having my own bespoke infrastructure.
+I'm a programmer, and I quite like programming, although there were times in my life when I hated it.
+Overall I think I like creating things *(especially when it's something I think is cool)*,
+and exploring new and different ways to do things *(which tends to get some people worked up)*.
 
+I think it's extremely fun to try out new ways of doing things, usually I find that most things
+end up not being as good as they could be, simply because they are being held back either by
+tech debt, no commercial use/support, or people simply not willing to change.
 
-Over the years I have created many C# libraries and WPF applications, although I'm hoping to be able to move to either Avalonia or .NET Maui soon.
+I also run an organisation *(if you can even call it that I guess)* named [OwlDomain](https://github.com/owl-domain),
+of which I am currently the only member.
 
-Currently my projects that are shown on github are meant to be a showcase, rather than being for public use, however that will change at one point! 
+The main purpose of the organisation is to create free for non-commercial use software and libraries,
+that focus on being heavily polished, so that they can be a pleasure to use.
 
-## My usual teck stack
-![.Net Badge](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
-![Xaml Badge](https://img.shields.io/badge/XAML-0C54C2.svg?style=for-the-badge&logo=XAML&logoColor=white)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+I suffer from a sleep disorder/disability known as [N24](https://en.wikipedia.org/wiki/Non-24-hour_sleep%E2%80%93wake_disorder)
+*(the symptoms of which make my username quite ironic)*, it makes life both extremely
+painful but also interesting, peaceful and beautiful *(so many sunsets and sunrises)*.
 
-*Yep, thats all, I like to keep it simple.*
+I also have a website/blog, check it out at [https://nightowl286.github.io](https://nightowl286.github.io/)!
